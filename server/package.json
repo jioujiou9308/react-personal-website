@@ -1,0 +1,7 @@
+{
+  "name": "personal-website-server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Backend server for personal website",
+  "main": "server.js"
+}

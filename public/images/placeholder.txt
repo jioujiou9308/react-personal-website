@@ -1,0 +1,9 @@
+This directory will contain images for your personal website.
+
+Suggested image structure:
+- /images/profile.jpg (Your profile photo)
+- /images/projects/ (Project screenshots)
+- /images/blog/ (Blog post images)
+- /images/icons/ (Social media and other icons)
+
+You can replace this file with actual images.
