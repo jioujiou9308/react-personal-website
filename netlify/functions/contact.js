@@ -46,7 +46,7 @@ exports.handler = async function(event, context) {
     
     // For demonstration purposes, we'll just log the data and return success
     // Uncomment the line below when ready to send emails
-    // await transporter.sendMail(mailOptions);
+    await transporter.sendMail(mailOptions);
     
     console.log('Contact form submission:', { name, email, subject, message });
     
